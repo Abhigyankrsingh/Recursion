@@ -13,10 +13,6 @@ void  prnt(int i,int n){
 
 }
 
-
-
-
-
 int main(){
       int n;
     cin >> n;
